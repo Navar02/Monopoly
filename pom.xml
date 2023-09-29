@@ -1,11 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>change your data</groupId>
+	<groupId>navar02</groupId>
 	<artifactId>Monopoly</artifactId>
-	<properties>
-		<sonar.organization>navar02</sonar.organization>
-		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-	</properties>
 	<version>0.0.1-SNAPSHOT</version>
 	<build>
 		<plugins>
@@ -63,11 +59,10 @@
 	<properties>
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
-
-		<sonar.organization>change your data</sonar.organization>
+		<sonar.organization>navar02</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.projectKey>change your data</sonar.projectKey>
-		<sonar.login>change your data</sonar.login>
+		<sonar.login>55dbfd06724492ded5e084699ee538d1a30818d4</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
