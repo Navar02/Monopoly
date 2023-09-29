@@ -2,8 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>change your data</groupId>
 	<artifactId>Monopoly</artifactId>
+	<properties>
+		<sonar.organization>navar02</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 	<version>0.0.1-SNAPSHOT</version>
-
 	<build>
 		<plugins>
 			<plugin>
